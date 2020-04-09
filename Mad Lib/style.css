@@ -1,0 +1,29 @@
+h1 {
+    color: lightblue;
+    font-variant: small-caps;
+}
+
+.main-div {
+    background-color: white;
+    width: 500px;
+    margin: auto;
+    padding: 35px 120px;
+
+}
+
+
+body {
+    background-color: lightblue;
+
+    margin: auto;
+}
+
+#Btn {
+    background-color: lightblue;
+    color: white;
+}
+
+#output {
+    border: solid 1px orange;
+    padding: 10px 15px;
+}
